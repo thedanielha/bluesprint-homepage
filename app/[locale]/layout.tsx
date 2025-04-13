@@ -294,6 +294,9 @@ const Footer = ({ locale }: any) => {
               <p>
                 <strong>미국 지사:</strong> 2108 N ST STE N SACRAMENTO, CA 95816
               </p>
+              <p>
+                <strong>문의:</strong> contact@beyondcity.co.kr
+              </p>
             </div>
           )}
 

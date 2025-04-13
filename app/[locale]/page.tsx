@@ -80,11 +80,9 @@ export default async function HomePage({
               </p>
 
               <div className="flex sm:flex-row gap-2">
-                <Link
-                  href={process?.env?.NEXT_PUBLIC_APP_URL || ""}
-                  target="_blank"
-                >
+                <Link href="mailto:contact@beyondcity.co.kr">
                   <Button
+                    asChild
                     className="w-full sm:w-auto"
                     style={{ backgroundColor: "#041427" }}
                   >
@@ -92,11 +90,9 @@ export default async function HomePage({
                   </Button>
                 </Link>
 
-                <Link
-                  href={process?.env?.NEXT_PUBLIC_APP_URL || ""}
-                  target="_blank"
-                >
+                <Link href="mailto:contact@beyondcity.co.kr">
                   <Button
+                    asChild
                     variant="outline"
                     className="w-full sm:w-auto hover:bg-muted"
                   >
