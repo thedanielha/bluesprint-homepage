@@ -1,0 +1,105 @@
+{
+  "common": {
+    "meta": {
+      "title": "AI Platform for Building Regulation & Feasibility Review | BluePrint",
+      "description": "BluePrint is an AI-powered platform that helps you review building regulations and analyze real estate development feasibility faster and more accurately.",
+      "brand": "BluePrint",
+      "keywords": "building regulations, real estate feasibility, AI review, development analysis, permitting review, architecture platform, property development, zoning analysis, AI real estate, AI platform"
+    },
+    "pagination": {
+      "previous": "Previous",
+      "next": "Next"
+    },
+    "loading": "Loading..."
+  },
+  "home": {
+    "hero": {
+      "title": "Faster & Smarter Building Regulation Review with AI",
+      "description": "BluePrint helps professionals in architecture, real estate, and government easily review building codes and development feasibility using AI.",
+      "cta": "Contact Sales",
+      "cta2": "Request Demo",
+      "imageAlt": "AI Building Regulation Review Platform"
+    },
+    "features": {
+      "label": "Key Features",
+      "title": "The New Standard for Building Regulation Review",
+      "description": "Let AI handle the complexity of regulations and data.",
+      "summary": "AI Regulation Review",
+      "summaryDesc": "Simply input site and building information — BluePrint automatically reviews relevant regulations and identifies key risks.",
+      "conversation": "LLM Q&A Support",
+      "conversationDesc": "Ask any questions about regulations, permitting issues, or development strategies and get expert-level insights from AI.",
+      "unlimited": "Feasibility Analysis",
+      "unlimitedDesc": "Quickly simulate development feasibility including FAR, building coverage ratio, profitability, and permitting potential."
+    },
+    "testimonials": {
+      "label": "Testimonials",
+      "title": "Why Professionals Choose BluePrint",
+      "description": "Speeding up regulation review changes the way you work.",
+      "items": {
+        "1": {
+          "quote": "Whenever I need to review building codes, I open BluePrint before Google. It's that much of a time-saver.",
+          "name": "Sujin Lee",
+          "role": "Architect"
+        },
+        "2": {
+          "quote": "Creating site review reports is now 3 times faster than before.",
+          "name": "Chanwoo Park",
+          "role": "Real Estate Development PM"
+        },
+        "3": {
+          "quote": "Preparing for internal meetings on regulation interpretation has become much simpler. Perfect for internal reviews.",
+          "name": "Hyelin Kim",
+          "role": "Permitting Consultant"
+        },
+        "4": {
+          "quote": "As a small developer with limited resources, BluePrint has been a game-changer for project reviews.",
+          "name": "Taeyoung Jung",
+          "role": "Real Estate Investment CEO"
+        }
+      }
+    },
+    "pricing": {
+      "label": "Pricing",
+      "title": "Choose a Plan That Fits You",
+      "description": "Flexible pricing for startups to enterprise customers.",
+      "monthlyLabel": "Pro (Monthly)",
+      "yearlyLabel": "Pro (Annual)",
+      "perMonth": "/month",
+      "perYear": "/year",
+      "subscribeNow": "Get Started",
+      "learnMore": "Learn More",
+      "popular": "Most Popular",
+      "features": {
+        "unlimited": "Unlimited Regulation & Feasibility Reviews",
+        "expert": "AI-Generated Reports",
+        "audio": "LLM Q&A Support"
+      }
+    },
+    "newsletter": {
+      "title": "Subscribe for Real Estate & Architecture Insights",
+      "description": "Get the latest regulation updates, development trends, and expert tips delivered to your inbox.",
+      "placeholder": "Email Address",
+      "cta": "Subscribe",
+      "privacy": "By subscribing, you agree to our Privacy Policy."
+    }
+  },
+  "blog": {
+    "list": {
+      "breadcrumb": {
+        "back": "Back to Home"
+      },
+      "title": "Architecture & Real Estate Blog",
+      "description": "Practical insights you can use right away.",
+      "searchPlaceholder": "Search Blog",
+      "filter": {
+        "label": "Filter",
+        "all": "All Topics",
+        "philosophy": "Regulations",
+        "literature": "Case Studies",
+        "history": "Market Trends",
+        "art": "Industry Insights"
+      },
+      "featured": "Featured Articles"
+    }
+  }
+}

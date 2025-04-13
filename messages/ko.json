@@ -1,0 +1,105 @@
+{
+  "common": {
+    "meta": {
+      "title": "건축 법규 · 사업성 검토 쉽게 – AI 검토 플랫폼 | 블루스프린트",
+      "description": "블루스프린트는 AI를 통해 건축 법규 검토부터 부동산 개발 사업성 분석까지 빠르고 정확하게 지원하는 건축·부동산 전문 플랫폼입니다.",
+      "brand": "블루스프린트",
+      "keywords": "건축법규, 부동산사업성, AI검토, 인허가검토, 개발사업, 부동산플랫폼, 건축검토, 사업타당성, AI플랫폼, 부동산AI"
+    },
+    "pagination": {
+      "previous": "이전",
+      "next": "다음"
+    },
+    "loading": "로딩 중..."
+  },
+  "home": {
+    "hero": {
+      "title": "건축 법규 검토, AI로 빠르고 정확하게",
+      "description": "블루스프린트는 복잡한 법규 검토와 사업성 분석을 AI가 대신 정리해주는 건축·부동산·정부 실무자를 위한 플랫폼입니다.",
+      "cta": "도입 문의",
+      "cta2": "데모 요청",
+      "imageAlt": "AI 건축 법규 검토 플랫폼"
+    },
+    "features": {
+      "label": "플랫폼 특징",
+      "title": "건축 법규 검토의 새로운 기준, 블루스프린트",
+      "description": "복잡한 법규와 데이터, 이제 AI가 정리합니다.",
+      "summary": "AI 법규 검토",
+      "summaryDesc": "토지, 건축정보 입력만 하면 관련 법규 자동 검토 및 리스크 도출",
+      "conversation": "LLM 질의응답",
+      "conversationDesc": "궁금한 법규, 인허가 이슈, 개발 전략까지 자유롭게 질문 가능",
+      "unlimited": "사업성 검토",
+      "unlimitedDesc": "용적률, 건폐율, 수익성, 인허가 가능성 등 빠르게 사업성 시뮬레이션"
+    },
+    "testimonials": {
+      "label": "이용 후기",
+      "title": "실무자들이 선택한 이유",
+      "description": "법규 검토가 빨라지면, 일의 레벨이 달라집니다.",
+      "items": {
+        "1": {
+          "quote": "이젠 건축 법규 검토할 때 구글보다 블루스프린트 먼저 켭니다. 시간이 아까워서요.",
+          "name": "이수진",
+          "role": "건축사"
+        },
+        "2": {
+          "quote": "입지검토 보고서 만드는 속도가 예전보다 3배는 빨라졌어요.",
+          "name": "박찬우",
+          "role": "부동산 개발 PM"
+        },
+        "3": {
+          "quote": "법규 해석 관련 회의 준비가 훨씬 간단해졌어요. 내부 리뷰용으로 최고입니다.",
+          "name": "김혜린",
+          "role": "인허가 컨설턴트"
+        },
+        "4": {
+          "quote": "스타트업 디벨로퍼라 리소스가 부족한데 블루스프린트 덕에 검토는 걱정 없어요.",
+          "name": "정태영",
+          "role": "부동산 투자사 대표"
+        }
+      }
+    },
+    "pricing": {
+      "label": "요금제",
+      "title": "필요에 맞게 선택하세요",
+      "description": "스타트업부터 기업 고객까지 맞춤형 요금제 제공",
+      "monthlyLabel": "프로 (월간)",
+      "yearlyLabel": "프로 (연간)",
+      "perMonth": "/월",
+      "perYear": "/년",
+      "subscribeNow": "지금 시작하기",
+      "learnMore": "자세히 보기",
+      "popular": "가장 인기",
+      "features": {
+        "unlimited": "법규·사업성 검토 무제한",
+        "expert": "AI 자동 리포트",
+        "audio": "LLM Q&A 지원"
+      }
+    },
+    "newsletter": {
+      "title": "건축·부동산 인사이트 구독하기",
+      "description": "최신 법규 변화, 개발 트렌드, 검토 노하우를 받아보세요.",
+      "placeholder": "이메일 주소",
+      "cta": "구독하기",
+      "privacy": "구독 시 개인정보 처리방침에 동의하는 것으로 간주됩니다."
+    }
+  },
+  "blog": {
+    "list": {
+      "breadcrumb": {
+        "back": "홈으로 돌아가기"
+      },
+      "title": "건축·부동산 블로그",
+      "description": "실무에 바로 쓰이는 인사이트를 제공합니다.",
+      "searchPlaceholder": "블로그 검색",
+      "filter": {
+        "label": "필터",
+        "all": "모든 주제",
+        "philosophy": "법규",
+        "literature": "개발사례",
+        "history": "시장동향",
+        "art": "트렌드"
+      },
+      "featured": "추천 글"
+    }
+  }
+}
